@@ -1,0 +1,4 @@
+.vscode
+bsq
+*.o
+a.out
